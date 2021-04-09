@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+```
+
+    
