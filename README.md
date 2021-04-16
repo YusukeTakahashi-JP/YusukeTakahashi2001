@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 [![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **YusukeTakahashi2001/YusukeTakahashi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
