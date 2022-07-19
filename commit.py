@@ -3,7 +3,7 @@ import datetime
 
 
 def main():
-    PATH_file = "dummy.txt"
+    PATH_file = "C:\\Users\\yusuk\\Desktop\\YusukeTakahashi2001\\dummy.txt"
     time = str(datetime.datetime.now())
     with open(PATH_file,'a') as f:
         print(time,file=f)
@@ -13,5 +13,4 @@ def main():
     os.system("git push")
     return 0
 
-if __name__ == "__main__":
-    main()
+main()
