@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/2077/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
@@ -49,16 +39,6 @@
 
 ```
 ![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/2077/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/YusukeTakahashi2001/YusukeTakahashi2001/main/profile-summary-card-output/2077/4-productive-time.svg)
 ```
 
     
